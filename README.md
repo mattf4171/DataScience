@@ -10,3 +10,5 @@ Project is created with
 * Linear Regression
 * Logistic Regression
 * K Nearest Neighbors
+* Naive Bayes Classification
+* Decision Tree Classification
