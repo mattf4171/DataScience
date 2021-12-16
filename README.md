@@ -15,3 +15,4 @@ Project is created with
 * Keras
 * TensorFlow
 * DeepLearning
+* Word Embedding
