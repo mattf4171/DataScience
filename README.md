@@ -12,3 +12,6 @@ Project is created with
 * K Nearest Neighbors
 * Naive Bayes Classification
 * Decision Tree Classification
+* Keras
+* TensorFlow
+* DeepLearning
