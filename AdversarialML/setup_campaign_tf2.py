@@ -37,8 +37,9 @@ def extract_labels(filename, num_images):
 # Note: campaign 2, 3, & 7 have images with same names, must hanlde them seperatly
 class MNIST:
     def __init__(self):
-        if not os.path.exists("data"):
-            os.mkdir("data")
+        if not os.path.exists("campaign_data"):
+            print("Please import needed campaign data")
+	    return
 	'''
 	# dont need since data is loaded internally from campaign_data Dir
             files = ["train-images-idx3-ubyte.gz",
