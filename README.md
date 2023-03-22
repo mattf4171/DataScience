@@ -2,7 +2,7 @@
 This repository is devoted to Data exploration, data vizualization, and Machine Learning methods.
 # Tools: 
 Project is created with
-* Python 3.6
+* Python
 * Pandas
 * numpy
 * matplotlib
