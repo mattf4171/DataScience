@@ -78,7 +78,6 @@ class MNISTModel:
         self.image_size = 28
         self.num_labels = 10
 	
-	#TODO: make model robust
         model = Sequential()
 
         model.add(Conv2D(32, (3, 3),
